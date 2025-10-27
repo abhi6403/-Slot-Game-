@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a2191c8c6fe344d1871706cf6555d28
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283366
+  packageName: "InspectMe Lite \u2013 Essential Tree-View Debugging & Inspection
+    Toolkit"
+  packageVersion: 1.2.9 (Svadhisthana)
+  assetPath: Assets/DivinityCodes/InspectMe/InspectMe.Runtime.xml
+  uploadId: 802644

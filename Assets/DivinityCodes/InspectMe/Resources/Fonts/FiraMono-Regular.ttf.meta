@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 79c74c76034694eb888b9b30e111d295
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fira Mono
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283366
+  packageName: "InspectMe Lite \u2013 Essential Tree-View Debugging & Inspection
+    Toolkit"
+  packageVersion: 1.2.9 (Svadhisthana)
+  assetPath: Assets/DivinityCodes/InspectMe/Resources/Fonts/FiraMono-Regular.ttf
+  uploadId: 802644
